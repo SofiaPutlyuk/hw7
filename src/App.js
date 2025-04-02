@@ -1,7 +1,9 @@
-import TaskList from "./components/TaskList";
+import TaskLists from "./components/TaskLIsts";
 function App() {
   return (
- <TaskList />
+  <div>
+   <TaskLists />
+ </div>
   );
 }
 
